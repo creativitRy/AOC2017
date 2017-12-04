@@ -1,6 +1,6 @@
 #include <cstdio>
 #include <iostream>
-#include <set>
+#include <unordered_set>
 #include <iomanip>
 #include <bitset>
 #include <fstream>
@@ -26,7 +26,7 @@ int main(int argc, char const *argv[]) {
         if (len == 0)
             break;
         
-        set<string> st;
+        unordered_set<string> st;
         d(st.size());
         
         unsigned long i = 0;
