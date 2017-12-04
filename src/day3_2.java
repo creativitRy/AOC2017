@@ -3,7 +3,7 @@ import java.util.*;
 public class day3_2 {
     public static void main(String[] args) {
         int input = 747;
-        
+
         HashMap<Vec, Integer> map = new HashMap<>();
 
         Vec v = new Vec(0, 0);
