@@ -49,7 +49,7 @@ public class day6_2 {
     
     
     public static void main(String[] args) throws IOException {
-        new Main().run();
+        new day6_2().run();
         
     }
 }
