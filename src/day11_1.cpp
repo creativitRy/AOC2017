@@ -1,10 +1,6 @@
 #include <cstdio>
-#include <cmath>
 #include <iostream>
-#include <algorithm>
 #include <vector>
-#include <iomanip>
-#include <bitset>
 #include <fstream>
 
 #define DEBUG
