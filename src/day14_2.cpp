@@ -1,7 +1,5 @@
 #include <cstdio>
 #include <iostream>
-#include <iomanip>
-#include <bitset>
 #include <fstream>
 #include "util/knothash.h"
 
